@@ -1,7 +1,7 @@
 # Calorie Burn Efficiency Prediction Dashboard (Track 4)
 
 ## 1. Problem & Target User
-- [cite_start]**Analytical Problem**: Most fitness trackers focus on raw metrics like steps or calories but fail to explain the **Metabolic Efficiency** behind those numbers[cite: 3]. [cite_start]Users often hit "plateaus" because their bodies are in a "Low Efficiency" (saving) mode, yet they lack tools to diagnose this physiological state[cite: 3].
+- **Analytical Problem**: Most fitness trackers focus on raw metrics like steps or calories but fail to explain the **Metabolic Efficiency** behind those numbers[cite: 3]. [cite_start]Users often hit "plateaus" because their bodies are in a "Low Efficiency" (saving) mode, yet they lack tools to diagnose this physiological state[cite: 3].
 - **Intended User**: 
     - [cite_start]**Gym Owners & Personal Trainers**: To use as a professional assessment tool to identify clients' metabolic bottlenecks and justify personalized training interventions[cite: 3, 9].
     - [cite_start]**Fitness Enthusiasts**: Individuals seeking data-driven insights into why their current routine is or isn't working[cite: 3].
