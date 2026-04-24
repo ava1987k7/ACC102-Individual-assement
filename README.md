@@ -41,7 +41,7 @@ To launch the interactive tool locally, follow these steps[cite: 8]:
 ## 6. Project Links
 - **Demo Video**:https://video.xjtlu.edu.cn/Mediasite/Play/275fdcf168fa4867b955381045773ef21d
 
-- **GitHub Repository**:[Your GitHub Link Here]
+- **GitHub Repository**：https://github.com/ava1987k7/ACC102-Individual-assement
 
 ## 7. Limitations & Next Steps
 - **Data Sensitivity**: The current model uses synthetic data; future iterations should be validated with clinical metabolic data.
